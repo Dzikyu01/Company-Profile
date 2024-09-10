@@ -1,0 +1,29 @@
+
+@media(max-width: 1024px){
+    flex-list{
+        flex-wrap:wrap;
+    }
+}
+
+/* flex box itu li lu dan lain lain */
+.flex-list li{
+    width: 50%;
+    height: auto;
+}
+
+.foot-notes{
+    height:500px;
+}
+
+footer{
+    height: 1100px;
+}
+
+.fa-search{
+    visibility: hidden;
+}
+W
+.search {
+    visibility: hidden;
+    position: absolute;
+}
